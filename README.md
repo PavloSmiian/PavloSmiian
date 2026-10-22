@@ -2,6 +2,10 @@
   <img src="./banner.png" alt="Pavlo Smiian - Senior Full-Stack Engineer" width="100%" />
 </div>
 
+<h1 align="center">Pavlo Smiian</h1>
+<p align="center"><b>Senior Full-Stack Engineer</b> · React / Node.js / React Native · Kyiv, Ukraine</p>
+<p align="center"><i>Web, mobile and AI - shipped as one connected system, not handed off between teams.</i></p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/[linkedin-slug]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:[email]"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -38,46 +42,29 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>AuraFit Coach</h3>
+    <td width="50%" valign="top">
+      <h3><a href="http://www.aurafit.com/">AuraFit Coach</a></h3>
       <p>AI-powered fitness app with real-time exercise form correction via computer vision, meal analysis and subscriptions.</p>
       <sub><b>Role:</b> Senior Full-Stack, led the React Native + TypeScript app end to end</sub><br>
-      <sub><b>Built:</b> AI camera form tracking · AI coaching assistant · RevenueCat / StoreKit purchases · subscription lifecycle</sub>
+      <sub><b>Built:</b> AI camera form tracking · AI coaching assistant · RevenueCat / StoreKit purchases · subscription lifecycle</sub><br>
+      <sub><b>Skills:</b> React Native · TypeScript · Node.js · Next.js · OpenAI API · Stripe SDK · Tailwind CSS · Computer Vision Integration · Mobile Application Development · In-App Purchases</sub>
     </td>
-    <td width="50%">
-      <h3>Miquido mobile app</h3>
-      <p>Cross-platform mobile app architected and shipped from scratch.</p>
-      <sub><b>Result:</b> ~13,000 active users · 4.1-star store rating</sub><br>
-      <sub><b>Also:</b> release cycle cut from ~3 days to ~1 day with CI/CD · retention up ~20% with offline-first caching and push</sub>
+    <td width="50%" valign="top">
+      <h3><a href="https://www.easemate.ai/">EaseMate AI</a></h3>
+      <p>Multimodal orchestration platform unifying AI chat, document analysis and media generation, with a public SDK.</p>
+      <sub><b>Built:</b> chat module · document analysis pipeline · media generation APIs · JWT auth</sub><br>
+      <sub><b>Skills:</b> React.js · Node.js · Express.js · Socket.io · JSON Web Token (JWT) · Supabase · GitHub · Jest</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>EaseMate AI</h3>
-      <p>Multimodal orchestration platform unifying AI chat, document analysis and media generation, with a public SDK.</p>
-      <sub><b>Built:</b> chat module · document analysis pipeline · media generation APIs · JWT auth</sub><br>
-      <sub><b>Stack:</b> React.js · Node.js</sub>
-    </td>
-    <td width="50%">
-      <h3>PanelsAI</h3>
+    <td colspan="2">
+      <h3><a href="https://panels.ai/">PanelsAI</a></h3>
       <p>SaaS workspace unifying GPT, Claude and other models for website development and marketing automation.</p>
       <sub><b>Built:</b> drag-and-drop story builder · reusable landing components · API integration</sub><br>
-      <sub><b>Stack:</b> React.js · Next.js</sub>
+      <sub><b>Skills:</b> React.js · Next.js · Node.js · NestJS · TypeScript · Redux.js · Tailwind CSS · Docker</sub>
     </td>
   </tr>
 </table>
-
----
-
-## ▸ Career path
-
-| Period | Role | Highlights |
-|---|---|---|
-| **2023 - 2026** | Senior Full-Stack Developer, Miquido | Next.js/NestJS services for 7,000+ concurrent sessions · OpenAI automation cut manual support workload ~35% · mentored 3 mid-level engineers |
-| **2021 - 2023** | Middle Full-Stack Developer, Bitfactory | 12+ enterprise features end to end · Postgres query time ~600ms to ~200ms · Kafka streaming, throughput up ~40% · Stripe/PayPal |
-| **2020 - 2021** | Junior Full-Stack Developer, Shape Security | Lighthouse ~65 to ~90 · Node/Express APIs at ~2,000 requests/day · ~80% Jest coverage |
-
-**Education:** Ivan Franko National University of Lviv - Bachelor's and Master's, Computer Software Engineering
 
 ---
 
