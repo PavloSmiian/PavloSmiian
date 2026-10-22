@@ -1,7 +1,15 @@
-<p align="center"><img src=".banner.png" alt="Pavlo Smiian - Senior Full-Stack Engineer" width="100%" /></p>
+<div align="center">
+  <img src="./banner.png" alt="Pavlo Smiian - Senior Full-Stack Engineer" width="100%" />
+</div>
+
 <h1 align="center">Pavlo Smiian</h1>
 <p align="center"><b>Senior Full-Stack Engineer</b> · React / Node.js / React Native · Kyiv, Ukraine</p>
 <p align="center"><i>Web, mobile and AI - shipped as one connected system, not handed off between teams.</i></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/[linkedin-slug]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:[email]"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
