@@ -76,11 +76,4 @@
 
 ---
 
-## ▸ Activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=[github-username]&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[github-username]&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
 <p align="center"><sub>Open to work · remote EU/US</sub></p>
