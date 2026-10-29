@@ -14,7 +14,6 @@
 | | |
 |---|---|
 | **Experience** | 6+ years building production systems |
-| **Building now** | EaseMate AI and PanelsAI - two AI products, both live with real users |
 | **Open to** | Senior Full-Stack or Full-Stack + Mobile roles with remote-first EU/US teams |
 | **Prefer** | Async-first cultures building AI-integrated or high-load platforms |
 | **Ask me about** | React Native in production · NestJS at scale · LLM integration · Kafka event streaming |
@@ -31,36 +30,6 @@
 | **Data and messaging** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) RabbitMQ · Supabase · Firebase |
 | **AI** | OpenAI API · Computer vision integration · LLM-powered automation |
 | **Infra and testing** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) CI/CD · Jest · Vitest · Cypress · React Testing Library |
-
----
-
-## ▸ Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="http://www.aurafit.com/">AuraFit Coach</a></h3>
-      <p>AI-powered fitness app with real-time exercise form correction via computer vision, meal analysis and subscriptions.</p>
-      <sub><b>Role:</b> Senior Full-Stack, led the React Native + TypeScript app end to end</sub><br>
-      <sub><b>Built:</b> AI camera form tracking · AI coaching assistant · RevenueCat / StoreKit purchases · subscription lifecycle</sub><br>
-      <sub><b>Skills:</b> React Native · TypeScript · Node.js · Next.js · OpenAI API · Stripe SDK · Tailwind CSS · Computer Vision Integration · Mobile Application Development · In-App Purchases</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://www.easemate.ai/">EaseMate AI</a></h3>
-      <p>Multimodal orchestration platform unifying AI chat, document analysis and media generation, with a public SDK.</p>
-      <sub><b>Built:</b> chat module · document analysis pipeline · media generation APIs · JWT auth</sub><br>
-      <sub><b>Skills:</b> React.js · Node.js · Express.js · Socket.io · JSON Web Token (JWT) · Supabase · GitHub · Jest</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3><a href="https://panels.ai/">PanelsAI</a></h3>
-      <p>SaaS workspace unifying GPT, Claude and other models for website development and marketing automation.</p>
-      <sub><b>Built:</b> drag-and-drop story builder · reusable landing components · API integration</sub><br>
-      <sub><b>Skills:</b> React.js · Next.js · Node.js · NestJS · TypeScript · Redux.js · Tailwind CSS · Docker</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
